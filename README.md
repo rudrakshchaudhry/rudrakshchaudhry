@@ -32,7 +32,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Plowtion](https://github.com/rudrakshchaudhry/Plowtion) | AI powered tool to generate personalized crop schedules tailored to your specific location and crop type | Python, AWS, XGBoost |
-| [MultiNodeRAG](https://github.com/rudrakshchaudhry/MultiNodeRAG) | Retrieval-Augmented Generation with multi-node LLM routing and metadata filtering. Optimized for government IR systems. | Python, LangChain, AWS, Streamlit |
+| [MultiNodeRAG](https://github.com/rudrakshchaudhry/MultiNodeRAG) | Retrieval-Augmented Generation with multi-node LLM routing and metadata filtering. Optimized for Mathematical Literature. | Python, LangChain, AWS, Streamlit |
 | [RandomForestRegressor](https://github.com/rudrakshchaudhry/RandomForestRegressor) | Custom implementation of a Random Forest Regressor from scratch with performance evaluation. | Python, NumPy, Scikit-learn |
 
 ---
